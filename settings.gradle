@@ -1,0 +1,3 @@
+rootProject.name='MockServer'
+include ':app'
+include ':app:mockserver'
