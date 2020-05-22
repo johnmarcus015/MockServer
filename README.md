@@ -81,6 +81,6 @@ allprojects {
 2. Add the dependency 
 ```shell
 dependencies {
-    implementation 'com.github.johnmarcus015:MockServer'
+    testImplementation 'com.github.johnmarcus015:MockServer'
 }
 ```
